@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nb.no">
+  <a href="https://nb.no/search">
     <img src="https://i.imgur.com/Qr8ctHW.png" alt="nb.no" height="150">
   </a>
 </p>
