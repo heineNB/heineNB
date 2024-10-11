@@ -9,3 +9,7 @@
     <img src="https://spotifything2.vercel.app/api/spotify">
   </a>
 </p>
+
+<p align=center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>
