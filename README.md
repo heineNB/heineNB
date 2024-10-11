@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Readme Quotes" />
+  <a href="https://nb.no/search">
+    <img src="https://i.imgur.com/Qr8ctHW.png" alt="nb.no" height="80">
+  </a>
 </p>
 
 <p align="center">
@@ -8,10 +10,7 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://nb.no/search">
-    <img src="https://i.imgur.com/Qr8ctHW.png" alt="nb.no" height="80">
-  </a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Readme Quotes" />
 </p>
-
-
