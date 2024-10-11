@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nb.no/search">
-    <img src="https://i.imgur.com/Qr8ctHW.png" alt="nb.no" height="120">
+    <img src="https://i.imgur.com/Qr8ctHW.png" alt="nb.no" height="80">
   </a>
 </p>
 
